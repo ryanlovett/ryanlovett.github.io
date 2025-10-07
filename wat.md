@@ -1,5 +1,5 @@
 ---
-Title: Wat
+title: Wat
 ---
 
 This is very important.

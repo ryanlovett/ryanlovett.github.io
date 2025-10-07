@@ -1,0 +1,15 @@
+version: 1
+project:
+  toc: 
+    - file: index.md
+    - file: wat.md
+
+site:
+  template: book-theme
+  title: "Ryan Lovett"
+  domains:
+    - ryanlovett.github.io
+  options:
+    #favicon: images/logo/favicon.ico
+    folders: true
+    #logo: assets/img/svg_Vertical_No_Endorser.svg
